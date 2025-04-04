@@ -1,2 +1,2 @@
 all:
-	gcc BD.c main.c -o Lab
+	g++ main.cpp product.cpp database.cpp -o lab1
